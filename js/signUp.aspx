@@ -122,7 +122,7 @@
                 document.getElementById('signUp').style.color = "color: #666666;";
                 document.getElementById('signUp').style.cursor = "not-allowed";
 
-                      
+                     
         }
     }
 
